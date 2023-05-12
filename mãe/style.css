@@ -1,0 +1,12 @@
+*{
+    margin: 0px
+    padding: 0px;
+}
+
+header {
+    background-color: bisque;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
