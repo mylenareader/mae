@@ -3,10 +3,33 @@
     padding: 0px;
 }
 
-header {
+header{
     background-color: bisque;
     color: aliceblue;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 30px;
 }
+
+main{
+    margin:auto; 
+    width: 400px;
+
+
+}
+
+section{
+    margin: 20px; 
+    font-size: 30px;
+}
+
+footer{
+    background-color: bisque;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
